@@ -1,3 +1,4 @@
+[![MasterHead](https://i.pinimg.com/originals/9e/0a/c8/9e0ac82bc17ff00708da6bd09593177e.gif))]
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 <h1 align="center">Hi 👋, I'm Mayushree Chakraborty</h1>
 <h3 align="center">Turning data into insights | Aspiring Data Scientist with a passion for code & curiosity</h3>
